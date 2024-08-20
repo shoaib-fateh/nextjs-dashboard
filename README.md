@@ -9,6 +9,10 @@ Welcome to **ACEM Dashboard**, a personal project by Shoaib Fateh. This is a dyn
 - **Responsive Design**: Built with Tailwind CSS to ensure a responsive and user-friendly experience.
 - **TypeScript**: Utilizes TypeScript for enhanced code quality and development efficiency.
 
+#### [Live Demo](https://myacme-dashboard.vercel.app/) / Default Email And Password:
+- Email: ``` user@nextmail.com ```
+- Password: ``` 123456 ```
+
 ## 🚀 Getting Started
 
 To get started with this project, follow these steps:
